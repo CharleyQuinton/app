@@ -929,6 +929,10 @@ class DataMartService extends Service {
 			'fw1.hub_wam_rank',
 			'fw1.peak_wam_rank',
 			'fw1.peak_hub_wam_rank',
+			'fw1.top_1k_days',
+			'fw1.top_1k_weeks',
+			'fw1.first_peak',
+			'fw1.last_peak',
 			'dw.url',
 			'dw.hub_id',
 			'fw1.wam - fw2.wam as wam_change'
