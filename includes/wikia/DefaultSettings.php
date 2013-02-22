@@ -1051,6 +1051,11 @@ $wgWikiaSeasonsWikiaBar = false;
 $wgWikiaSeasonsPencilUnit = false;
 
 /**
+ * WAM Api
+ */
+$wgEnableWAMApiExt = false;
+
+/**
  * @name $wgEnableQuickToolsExt
  * Enables QuickTools extension
  */
